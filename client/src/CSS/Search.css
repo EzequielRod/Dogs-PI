@@ -1,0 +1,19 @@
+.buscador{
+    background-color: rgba(220, 228, 250, 0.918);
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: flex-end;
+    border: 1px solid #e1ecf7;
+}
+.buscador:hover{
+    background-color: #d1dffc;
+    border: 1px solid #e1ecf7;
+}
+.search{
+    display:flex;
+    justify-content:flex-end;
+    margin-left: 60px;
+}
+.figurabuscador{
+    padding:4%;
+}

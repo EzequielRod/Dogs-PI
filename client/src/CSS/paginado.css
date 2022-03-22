@@ -1,0 +1,24 @@
+.botonPaginado{
+    color:rgb(233, 233, 243);
+    background-color: rgba(11, 37, 121, 0.993);
+    font-size: large;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 15%;
+    width: 45px;
+    height: 33px;
+    margin: 1px;
+    display: flex;
+    flex-direction: row;
+}
+.botonPaginado:hover{
+    background-color: #141414; 
+    height: 110%;
+}
+.paginado9{
+    display: flex;
+    direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}

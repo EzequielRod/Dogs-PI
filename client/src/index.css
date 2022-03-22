@@ -1,0 +1,19 @@
+body {
+    /* background: url('https://st3.depositphotos.com/3904033/31935/i/450/depositphotos_319358006-stock-photo-doodle-black-paw-print-red.jpg'); */ 
+  /* 'https://ih1.redbubble.net/image.2547276079.5773/flat,750x,075,f-pad,750x1000,f8f8f8.jpg' */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* html{
+  background: url('https://st3.depositphotos.com/3904033/31935/i/450/depositphotos_319358006-stock-photo-doodle-black-paw-print-red.jpg'); 
+  
+} */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+

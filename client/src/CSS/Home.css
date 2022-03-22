@@ -1,0 +1,53 @@
+
+.header{
+    background-color: rgba(40, 66, 214, 0.753);
+    padding-bottom: 1%;
+}
+
+.principal{
+    background-color: rgba(40, 66, 214, 0.753);
+    padding-bottom: 1%;
+}
+#botonCreate{
+    font-size: 25px;
+    color:#dbe8f5;
+    border-radius: 15;
+    background-color:#139182;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 8px;
+    margin-left: 867px;    
+
+}
+#botonCreate:hover{
+    background-color: #549df0; 
+}
+#botonReturn{
+    font-size: 25px;
+    color:#dbe8f5;
+    border-radius: 15;
+    background-color:#139182;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 8px;
+    margin-left: -824px;
+    
+
+}
+#botonReturn:hover{
+    background-color: #549df0; 
+}
+
+.paginado{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.paginado2{
+margin: 2%;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
